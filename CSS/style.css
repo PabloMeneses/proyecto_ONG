@@ -16,3 +16,31 @@
     justify-content: center;
     gap: 2rem;
 }
+
+.info{
+    color:  rgb(5,178,158);
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.integrantes{
+    color:  rgb(5,178,158);
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+
+.fotoinfo{
+width: 100%;
+max-width: 350px;
+    /*height: 44%;*/
+    
+}
+
+body{
+    background-image: url(../IMG/17580.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
